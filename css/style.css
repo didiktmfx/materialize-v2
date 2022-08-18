@@ -1,0 +1,25 @@
+
+
+.slider h3,
+.slider h5 {
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, 1);
+}
+
+.parallax-container {
+    height: 600px;
+}
+
+.about {
+    height: 600px;
+    margin-top: 200px;
+}
+
+.card {
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+section {
+    padding: 40px 0;
+}
