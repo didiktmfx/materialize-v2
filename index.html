@@ -16,7 +16,7 @@
 
   <body>
     <!-- Dropdown Structure -->
-<div class="navbar-fixed" id="navbar-fixed">
+<div class="navbar-fixed" id="navbar">
 <ul id="dropdown1" class="dropdown-content">
     <li><a href="#!">one</a></li>
     <li><a href="#!">two</a></li>
@@ -116,7 +116,7 @@
 
     </div>
   </div>
-</section>
+
 
 <section id="about" class="about">
   <div class="container">
@@ -133,7 +133,7 @@
     </div>
   </div>
 
-</section>
+</section></section>
 <!-- parallax -->
 
 <div class="parallax-container">
@@ -402,6 +402,7 @@
 
         const slider = document.querySelectorAll('.slider');
         M.Slider.init(slider, {
+          indicators: false,
           height: 550,
 
         });

@@ -1,4 +1,7 @@
-
+/* navbar {
+    padding-left: 4px;
+    padding-right: 4px;
+} */
 
 .slider h3,
 .slider h5 {
@@ -11,7 +14,7 @@
 
 .about {
     height: auto;
-    margin-top: 200px;
+    margin-top: 50px;
 }
 
 .card {
