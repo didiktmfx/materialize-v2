@@ -10,14 +10,14 @@
 }
 
 .about {
-    height: 600px;
+    height: auto;
     margin-top: 200px;
 }
 
 .card {
     height: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 section {
